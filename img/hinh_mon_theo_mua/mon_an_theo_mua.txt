@@ -1,0 +1,15 @@
+1|Nộm gà xé phay|80000|Nguyên liệu:250g thịt ức gà<br> củ hành tây to (hoặc 1 củ nhỏ)<br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh, đường|thuc_don_5.jpg|xuan
+2|Gà quay|25000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_3.jpg|ha
+3|Mực xào thập cẩm|20000|Nguyên liệu:250g thịt ức gà<br> củ hành tây to (hoặc 1 củ nhỏ)<br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh, đường|thuc_don_4.jpg|thu
+4|Cải làn xào tỏi|220000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_6.jpg|dong
+5|Nộm gà|840000|Nguyên liệu:250g thịt ức gà<br> củ hành tây to (hoặc 1 củ nhỏ)<br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh, đường|thuc_don_7.jpg|xuan
+6|Nộm gà|740000|Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, xà lách xoăn, hành tây, tỏi, đường, dấm, ớt...|thuc_don_8.jpg|ha
+7|Nộm gà ta|840000|Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, xà lách xoăn, hành tây, tỏi, đường, dấm, ớt...|thuc_don_9.jpg|thu
+8|Cải làn ot|220000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_4.jpg|dong
+9| làn xào hanh thit|450000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_5.jpg|thu
+10| rau ron thit|750000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_8.jpg|ha
+11|nom rau ron thit|50000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_10.jpg|dong
+12| ron thit|720000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_5.jpg|xuan
+13|ca tre ech|350000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_4.jpg|xuan
+14| rau ron thit|750000|Nguyên liệu:250g thịt ức gà<br> Nguyên liệu: 3 quả dưa chuột, 3 quả cà chua, 1/2 quả dứa, <br> củ cà rốt<br> chút lạc rangRau mùi, húng<br>Nước mắm, chanh,đường|thuc_don_9.jpg|dong
+

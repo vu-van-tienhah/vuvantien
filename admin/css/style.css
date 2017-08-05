@@ -1,0 +1,167 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+#banner
+{
+	background-color:#666;
+	height:100px;
+	width:100%;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+.baner-left img
+{
+	width:200px;
+	height:90%;
+	border-radius:100%;
+	margin-top:5px;
+	float:left;
+	margin-right:10px;
+}
+.baner-left h3
+{
+	color:#F00;
+	font-style:italic;
+	margin-top:30px;
+	
+}
+.baner-left
+{
+
+width:49%;
+height:100%;
+float:left;	
+}
+
+.baner-right
+{
+
+width:50%;
+float:right;
+height:100%;	
+}
+.baner-right p
+{
+	float:right;
+	font-size:18px;
+	color:#CCC;
+	margin:5px;
+}
+.baner-right p a
+{
+	color:#FFF;
+	text-decoration:none;
+}
+.baner-right p a:hover
+{
+	color:#999;
+}
+
+#menu
+{
+	background-color:#999;
+	height:auto;
+	width:20%;
+	float:left;
+}
+#content
+{
+	background-color:#CCC;
+	float:right;
+	width:79%;
+	height:auto;
+	margin-bottom:10px;
+}
+#footer
+{
+	background-color:#000;
+	width:100%;
+	height:200px;
+}
+.xoa{clear:both;}
+.list
+{
+	
+	width:90%;
+	height:auto;
+	float:right;
+	margin-bottom:5px;
+}
+.list nav li
+{
+	padding:5px;
+	float:right;
+	clear:both;
+	list-style:none;
+	margin-bottom:10px;
+	
+}
+.list nav li a
+{
+	text-decoration:none;
+	color:#333;
+	font-size:18px;
+	font-weight:bold;
+	
+}
+.list nav li a:hover
+{
+	color:#CCC;
+}
+.box-chucnang
+{
+	width:100%;
+	height:50px;
+	background: #066; /* For browsers that do not support gradients */
+  	background: -webkit-linear-gradient(-90deg,#066,#0F3); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(-90deg,#066,#0F3); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(-90deg,#066,#0F3); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(-90deg,#066,#0F3); /* Standard syntax */
+	border-radius:10px;
+	
+	
+	
+}
+.box-chucnang p
+{
+	color:#FFF;
+	font-size:18px;
+	text-align:center;
+	padding-top:5px;
+}
+.main
+{
+	border:1px solid #CCC;
+	background-color:#FFF;
+	width:100%;
+	height:auto;
+	box-shadow:0px 0px 10px #999999;
+}
+.main a
+{
+	text-decoration:none;
+	color:#093;
+}
+.main img
+{
+	width:95px;
+	height:95px;
+}
+.phan_trang a
+{
+	text-decoration:none;
+	margin:3px;
+	border:3px solid #F63;
+	width:40px;
+	height:30px;
+	background:#F63;
+	color:#CCC;
+}
+.bbp-author-name {
+max-width: 500px;
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+}
